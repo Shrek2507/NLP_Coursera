@@ -1,0 +1,4 @@
+Twitter/NN is/VB the/DT most/JJ open/JJ social/JJ media/NN platform/NN, which/WDT is/VB partly/RB why/WRB it/PRP is/VB used/VB by/IN so/RB many/JJ politicians/NN, celebrities/NN, journalists/NN, technocrats/NN, and/CC experts/NN working/VB on/IN pacy/JJ topics/NN.
+As/IN we/PRP learned/VB over/IN  the/DT past/JJ year/NN, openness/NN of/IN Twitter/NN was/VB exploited/VB by/IN adversarial/JJ 
+governments/NN trying/VB to/TO influence/VB  elections/NN.
+Twitter/NN is/VB marketing/VB itself/PRP as/IN /DT news/NN platform/NN.
